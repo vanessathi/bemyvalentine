@@ -13,7 +13,7 @@ Click the envelope to reveal the letter, and let your recipient choose "Yes" or 
 - 🎁 **Prize message for your Valentine**  
 - 🔄 **Reset button to start over**  
 
-## 🌐 Live Demo[
+## 🌐 Live Demo
 https://vanessathi.github.io/bemyvalentine/
 
 ## 📂 Setup Instructions
